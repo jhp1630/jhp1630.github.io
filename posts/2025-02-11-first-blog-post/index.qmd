@@ -1,0 +1,15 @@
+---
+title: "First Post"
+format: html
+description: "This is my first blog post"
+author:
+  - name: jhp
+date: 2025-02-11
+categories: [Quarto, R]
+image: jhp1630.github.io/posts/2025-02-11-first-blog-post
+draft: false
+---
+
+First blog post made with Quarto and R.[^1]
+
+[^1]: Testing footnotes.
