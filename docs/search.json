@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Posts",
+    "section": "",
+    "text": "First Post\n\n\n\nQuarto\n\n\nR\n\n\n\nThis is my first blog post\n\n\n\njhp\n\n\nFeb 11, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "jhp",
+    "section": "",
+    "text": "My first website."
+  },
+  {
+    "objectID": "posts/2025-02-11-first-blog-post/index.html",
+    "href": "posts/2025-02-11-first-blog-post/index.html",
+    "title": "First Post",
+    "section": "",
+    "text": "First blog post made with Quarto and R.1"
+  },
+  {
+    "objectID": "posts/2025-02-11-first-blog-post/index.html#footnotes",
+    "href": "posts/2025-02-11-first-blog-post/index.html#footnotes",
+    "title": "First Post",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nTesting footnotes.↩︎"
+  }
+]
