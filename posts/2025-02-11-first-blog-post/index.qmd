@@ -6,7 +6,7 @@ author:
   - name: jhp
 date: 2025-02-11
 categories: [Quarto, R]
-image: jhp1630.github.io/posts/2025-02-11-first-blog-post/image.jpg
+image: jhp1630.github.io/posts/2025-02-11-first-blog-post/thumbnail.jpg
 draft: false
 ---
 
