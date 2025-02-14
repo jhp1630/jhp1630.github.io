@@ -16,7 +16,9 @@ First blog post made with Quarto and R.[^1]
 
 ### Image
 ![Image Caption](post_image.gif){width=200}
+
 ### Table
+
 | Table                           |
 |---------------------------------|
 | 12314124                        |
