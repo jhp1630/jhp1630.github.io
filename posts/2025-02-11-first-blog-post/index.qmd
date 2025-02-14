@@ -11,14 +11,18 @@ image: thumbnail.jpg
 draft: false
 ---
 
-### Test
+### Text
 First blog post made with Quarto and R.[^1]
 
-![Image Caption](post_image.gif)
-| Table |
-|---------|
-|12314124|
-|$V = \iiint\limits_{E}{{\,dV}}$|
-|asdf| 
+### Image
+![Image Caption](post_image.gif){width=200}
+### Table
+| Table                           |
+|---------------------------------|
+| 12314124                        |
+| $V = \iiint\limits_{E}{{\,dV}}$ |
+| asdf                            |
+
+> Testing blockquotes
 
 [^1]: Testing footnotes.

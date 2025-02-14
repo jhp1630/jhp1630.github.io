@@ -18,7 +18,7 @@
     "href": "posts/2025-02-11-first-blog-post/index.html",
     "title": "First Post",
     "section": "",
-    "text": "First blog post made with Quarto and R.1"
+    "text": "First blog post made with Quarto and R.1\n | Table | |——-| | 12314124 | | \\(V = \\iiint\\limits_{E}{{\\,dV}}\\) | | asdf |"
   },
   {
     "objectID": "posts/2025-02-11-first-blog-post/index.html#footnotes",
