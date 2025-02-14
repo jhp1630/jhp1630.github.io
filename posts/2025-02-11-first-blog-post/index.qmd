@@ -6,10 +6,19 @@ author:
   - name: jhp
 date: 2025-02-11
 categories: [Quarto, R]
-image: jhp1630.github.io/posts/2025-02-11-first-blog-post/thumbnail.jpg
+title-block-banner: thumbnail.jpg
+image: thumbnail.jpg
 draft: false
 ---
 
+### Test
 First blog post made with Quarto and R.[^1]
+
+![Image Caption](post_image.gif)
+| Table |
+|---------|
+|12314124|
+|$V = \iiint\limits_{E}{{\,dV}}$|
+|asdf| 
 
 [^1]: Testing footnotes.

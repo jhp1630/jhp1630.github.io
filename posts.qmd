@@ -3,6 +3,7 @@ title: "Posts"
 format: html
 listing: 
   contents: posts
+  fields: [image, date, title, description, categories, author]
   type: grid 
   sort: "date desc"
   categories: true
