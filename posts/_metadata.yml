@@ -1,3 +1,9 @@
-freeze: auto
+freeze: true
 
 title-block-banner: true
+
+author: 'jhp'
+
+toc: true
+
+page-layout: article

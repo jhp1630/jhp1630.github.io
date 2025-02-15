@@ -2,9 +2,11 @@
 title: "Posts"
 format: html
 listing: 
-  contents: posts
+  contents: posts/**/*.qmd
   fields: [image, date, title, description, categories, author]
   type: grid 
   sort: "date desc"
   categories: true
+  sort-ui: true
+  filter-ui: true
 ---

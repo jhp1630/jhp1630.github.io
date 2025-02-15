@@ -1,9 +1,7 @@
 ---
 title: "First Post"
 format: html
-description: "This is my first blog post"
-author:
-  - name: jhp
+description: "My first blog post! Testing out some features."
 date: 2025-02-11
 categories: [Quarto, R]
 title-block-banner: thumbnail.jpg
@@ -12,10 +10,14 @@ draft: false
 ---
 
 ### Text
+
 First blog post made with Quarto and R.[^1]
 
+[^1]: Testing footnotes.
+
 ### Image
-![Image Caption](post_image.gif){width=200}
+
+![Image Caption](post_image.gif){width="200"}
 
 ### Table
 
@@ -26,5 +28,3 @@ First blog post made with Quarto and R.[^1]
 | asdf                            |
 
 > Testing blockquotes
-
-[^1]: Testing footnotes.

@@ -1,3 +1,18 @@
 ---
-title: "About"
+title: "jhp"
+image: media/profile1.jpg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 12em
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/jhp1630
+    - icon: envelope
+      text: Email
+      href: mailto:jhp1630@gmail.com
 ---
+
+Trying to learn. Dedicated to recording my progress.

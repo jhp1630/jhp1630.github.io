@@ -1,11 +1,10 @@
 ---
 title: "jhp"
-image: media/profile1.jpg
-toc: false
+format: html
 about: 
-  template: trestles
-  image-shape: round
-  image-width: 12em
+  template: jolla
+  id: about-block
+  image: media/profile1.jpg
   links:
     - icon: github
       text: GitHub
@@ -13,6 +12,22 @@ about:
     - icon: envelope
       text: Email
       href: mailto:jhp1630@gmail.com
+listing:
+  id: post-block
+  contents: posts/**/*.qmd
+  fields: [image, date, title, description, categories, author]
+  type: grid 
+  sort: "date desc"
+  max-items: 3
 ---
 
-My first website.
+::: {#about-block}
+Trying to learn. Dedicated to recording my progress.
+:::
+
+---------
+
+### Some of my posts
+::: {#post-block}
+:::
+
