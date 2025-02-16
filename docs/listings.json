@@ -2,13 +2,15 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/2025-02-11-first-blog-post/post.html"
+      "/posts/2025-02-15-post/post.html",
+      "/posts/2025-02-11-post/post.html"
     ]
   },
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/2025-02-11-first-blog-post/post.html"
+      "/posts/2025-02-15-post/post.html",
+      "/posts/2025-02-11-post/post.html"
     ]
   }
 ]

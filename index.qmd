@@ -27,7 +27,7 @@ Trying to learn. Dedicated to recording my progress.
 
 ---------
 
-### Some of my posts
+### Some of my posts 
 ::: {#post-block}
 :::
 
